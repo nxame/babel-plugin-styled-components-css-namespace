@@ -169,7 +169,7 @@
     "jest": "24.8.x",
     "jest-styled-components": "6.3.x",
     "lint-staged": "8.1.x",
-    "prettier": "1.17.x",
+    "prettier": "2.8.x",
     "react": "16.8.x",
     "react-dom": "16.8.x",
     "react-test-renderer": "16.8.x",
