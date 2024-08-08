@@ -103,7 +103,7 @@
     "react": "16.8.x",
     "react-dom": "16.13.x",
     "react-test-renderer": "16.8.x",
-    "rimraf": "^4.3.0",
+    "rimraf": "^5.0.1",
     "styled-components": "4.2.x"
   }
 }
