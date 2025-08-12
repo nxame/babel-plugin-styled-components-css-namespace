@@ -91,7 +91,7 @@
     "babel-jest": "29.7.x",
     "babel-plugin-tester": "^11.0.4",
     "eslint": "^8.35.0",
-    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "husky": "^8.0.3",
