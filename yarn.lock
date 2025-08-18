@@ -2223,7 +2223,7 @@ __metadata:
     postcss-parent-selector: ^1.0.0
     postcss-safe-parser: ^6.0.0
     prettier: ^2.8.4
-    react: 16.8.x
+    react: 19.1.x
     react-dom: 16.13.x
     react-test-renderer: 16.8.x
     rimraf: ^6.0.1
@@ -6644,15 +6644,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:16.8.x":
-  version: 16.8.6
-  resolution: "react@npm:16.8.6"
-  dependencies:
-    loose-envify: "npm:^1.1.0"
-    object-assign: "npm:^4.1.1"
-    prop-types: "npm:^15.6.2"
-    scheduler: "npm:^0.13.6"
-  checksum: 8dfdbec9af6999c2cfb33a9389995c6401daba732e1ee7e0a4920d28fd2e8e6b0fde99dfe4b8e2f81efc4a962c92656e3e79e221323449e55850232163f15ff4
+"react@npm:19.1.x":
+  version: 19.1.1
+  resolution: "react@npm:19.1.1"
+  checksum: f2f18fea5deac87b1167365bd5160bcba64d383c26a37afa905b714ca424f423ef97d8daf53f041ab9ac25a06357fafcf0b5d3b6b84c9d1eace0e621bfeae629
   languageName: node
   linkType: hard
 
